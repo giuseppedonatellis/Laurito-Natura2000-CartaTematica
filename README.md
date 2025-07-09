@@ -26,4 +26,4 @@ La base cartografica (CTR) è stata scaricata dal Geoportale della Regione Campa
 
 ## Accesso ai dati
 
-I file GIS e la carta tematica dei siti Natura 2000 ricadenti nel territorio comunale di Laurito (SA) sono disponibili al seguente link:
+I file GIS e la carta tematica dei siti Natura 2000 ricadenti nel territorio comunale di Laurito (SA) sono disponibili al seguente link: https://drive.google.com/file/d/1696nDAorW0ZYGaco9K5xzn28HKTC8at5/view?usp=drive_link

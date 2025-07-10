@@ -23,3 +23,6 @@ I dati relativi ai siti Natura 2000 sono stati ottenuti dal Geoportale Nazionale
 Verificare eventuali restrizioni prima della redistribuzione.
 
 La base cartografica (CTR) è stata scaricata dal Geoportale della Regione Campania, distribuita secondo la Italian Open Data License v2.0.
+
+## Accesso ai dati
+https://drive.google.com/drive/folders/1mpTT8YLGPuMddKwLqtt3NzeEdpJR6yyn?usp=drive_link

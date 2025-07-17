@@ -2,6 +2,8 @@
 
 Questo progetto documenta la realizzazione di una carta tematica dei siti Natura 2000 presenti nel territorio comunale di Laurito (SA), attraverso l’uso di servizi cartografici WMS e strumenti GIS.
 
+---
+
 ## Fasi operative
 
 - Individuazione dei siti Natura 2000 tramite il servizio WMS del Geoportale nazionale (https://gn.mase.gov.it/portale/servizio-di-consultazione-wms)
@@ -9,13 +11,19 @@ Questo progetto documenta la realizzazione di una carta tematica dei siti Natura
 - Composizione cartografica finale ed esportazione della mappa in formato .jpg, .tiff o .pdf (formato A4, scala adeguata)
 - Inserimento degli elementi cartografici accessori: freccia del nord, barra di scala, legenda e coordinate
 
+---
+
 ## Software utilizzato
 
 QGIS versione 3.30.4
 
+---
+
 ## Output
 
 Il risultato finale è una mappa tematica dei siti Natura 2000 presenti nel territorio comunale di Laurito, esportata in formato cartaceo e digitale (A4), completa di tutti gli elementi cartografici essenziali.
+
+---
 
 ## Licenza
 
@@ -23,6 +31,8 @@ I dati relativi ai siti Natura 2000 sono stati ottenuti dal Geoportale Nazionale
 Verificare eventuali restrizioni prima della redistribuzione.
 
 La base cartografica (CTR) è stata scaricata dal Geoportale della Regione Campania, distribuita secondo la Italian Open Data License v2.0.
+
+---
 
 ## Accesso ai dati
 https://drive.google.com/drive/folders/1mpTT8YLGPuMddKwLqtt3NzeEdpJR6yyn?usp=drive_link

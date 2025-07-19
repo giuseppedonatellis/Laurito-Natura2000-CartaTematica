@@ -15,7 +15,7 @@ Questo progetto documenta la realizzazione di una carta tematica dei siti Natura
 
 ## Software utilizzato
 
-QGIS versione 3.30.4
+- QGIS versione 3.30.4
 
 ---
 

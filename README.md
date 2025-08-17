@@ -70,6 +70,3 @@ Corso GIS e Cartografia Geotematica – Università degli Studi di Napoli Federi
 
 ## Accesso ai dati
 https://drive.google.com/drive/folders/1mpTT8YLGPuMddKwLqtt3NzeEdpJR6yyn?usp=drive_link
-
-## Accesso ai dati
-https://drive.google.com/drive/folders/1mpTT8YLGPuMddKwLqtt3NzeEdpJR6yyn?usp=drive_link
